@@ -1,0 +1,259 @@
+{
+  "categories": [
+    {
+      "id": "ff011cef-f85b-443e-99dd-cdbfe75c7f2d",
+      "name": "Computers",
+      "createdAt": 1670085507653,
+      "updatedAt": 1670085507653
+    },
+    {
+      "id": "2da19387-943e-4e01-bc35-5dacc816dd32",
+      "name": "Electronics",
+      "createdAt": 1670085507653,
+      "updatedAt": 1670085507653
+    },
+    {
+      "id": "7cb4a380-0e96-47e6-bd36-d7eaa21ab923",
+      "name": "Baby",
+      "createdAt": 1670085507653,
+      "updatedAt": 1670085507653
+    },
+    {
+      "id": "d482282f-810a-4134-9a5a-e5ead91b9f86",
+      "name": "Tools",
+      "createdAt": 1670085507653,
+      "updatedAt": 1670085507653
+    },
+    {
+      "name": "Laptop",
+      "createdAt": 1670085579974,
+      "updatedAt": 1670085579974,
+      "id": "kk9PHmK"
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "ff011cef-f85b-443e-99dd-cdbfe75c7f2d",
+      "id": "6dc29d82-fe11-48c6-a4f1-50c683eadd5b",
+      "name": "Licensed Granite Fish",
+      "color": "sky blue",
+      "price": 276,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "ff011cef-f85b-443e-99dd-cdbfe75c7f2d",
+      "id": "b8f909ef-d462-4dfe-a453-72b3a4a068a9",
+      "name": "Intelligent Wooden Towels",
+      "color": "azure",
+      "price": 895,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "ff011cef-f85b-443e-99dd-cdbfe75c7f2d",
+      "id": "e7abb485-31e5-49e0-ad1f-52473cfc3ed0",
+      "name": "Practical Granite Gloves",
+      "color": "indigo",
+      "price": 359,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "ff011cef-f85b-443e-99dd-cdbfe75c7f2d",
+      "id": "7c17a0bc-c23d-4a70-946b-5a7c2ed2b314",
+      "name": "Tasty Soft Sausages",
+      "color": "lavender",
+      "price": 338,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "ff011cef-f85b-443e-99dd-cdbfe75c7f2d",
+      "id": "c89650d0-e130-4421-8e5b-c8bab82b694c",
+      "name": "Recycled Concrete Chips",
+      "color": "teal",
+      "price": 921,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "2da19387-943e-4e01-bc35-5dacc816dd32",
+      "id": "4114159a-bed1-4e8b-b675-07d398f81301",
+      "name": "Tasty Concrete Keyboard",
+      "color": "silver",
+      "price": 23,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "2da19387-943e-4e01-bc35-5dacc816dd32",
+      "id": "ea1b2e77-d25a-4679-96e5-6c2ce1848268",
+      "name": "Sleek Frozen Bike",
+      "color": "lime",
+      "price": 365,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "2da19387-943e-4e01-bc35-5dacc816dd32",
+      "id": "26389113-2ea5-479f-82b9-93b81fe400dc",
+      "name": "Refined Steel Towels",
+      "color": "salmon",
+      "price": 689,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "2da19387-943e-4e01-bc35-5dacc816dd32",
+      "id": "20343b9a-d506-4d04-bc8b-856013f42538",
+      "name": "Licensed Wooden Sausages",
+      "color": "magenta",
+      "price": 379,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "2da19387-943e-4e01-bc35-5dacc816dd32",
+      "id": "c53a30ed-aad4-416d-a0ed-f955827c25a8",
+      "name": "Oriental Granite Shirt",
+      "color": "purple",
+      "price": 324,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "7cb4a380-0e96-47e6-bd36-d7eaa21ab923",
+      "id": "e032d652-cada-4208-8945-cdbb92a7c622",
+      "name": "Awesome Bronze Pizza",
+      "color": "magenta",
+      "price": 512,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "7cb4a380-0e96-47e6-bd36-d7eaa21ab923",
+      "id": "e5875961-f031-47cd-bda2-865a5351ce14",
+      "name": "Electronic Soft Tuna",
+      "color": "turquoise",
+      "price": 85,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "7cb4a380-0e96-47e6-bd36-d7eaa21ab923",
+      "id": "030612a1-6b75-400b-8d6c-b8bebf257c4c",
+      "name": "Fantastic Metal Mouse",
+      "color": "white",
+      "price": 747,
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1670085507654,
+      "updatedAt": 1670085507654,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "7cb4a380-0e96-47e6-bd36-d7eaa21ab923",
+      "id": "5d58239c-580e-436c-b8e1-736f9ca2f4b7",
+      "name": "Handcrafted Bronze Table",
+      "color": "maroon",
+      "price": 635,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "7cb4a380-0e96-47e6-bd36-d7eaa21ab923",
+      "id": "899f7b3f-8dcd-4109-8759-7f5962f38305",
+      "name": "Fantastic Frozen Shoes",
+      "color": "violet",
+      "price": 816,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d482282f-810a-4134-9a5a-e5ead91b9f86",
+      "id": "6df32755-f347-4139-b2c6-77f1aa0ead32",
+      "name": "Awesome Concrete Fish",
+      "color": "white",
+      "price": 503,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d482282f-810a-4134-9a5a-e5ead91b9f86",
+      "id": "7b48a4ab-9e76-4b9d-b9f9-ce57b8c68b76",
+      "name": "Refined Frozen Pizza",
+      "color": "fuchsia",
+      "price": 506,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d482282f-810a-4134-9a5a-e5ead91b9f86",
+      "id": "98811a50-aafb-4e9d-b34d-66f63051e337",
+      "name": "Modern Cotton Soap",
+      "color": "purple",
+      "price": 609,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d482282f-810a-4134-9a5a-e5ead91b9f86",
+      "id": "21f9ea00-e8d3-48bf-90be-a2250af03cce",
+      "name": "Rustic Cotton Car",
+      "color": "violet",
+      "price": 281,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    },
+    {
+      "categoryId": "d482282f-810a-4134-9a5a-e5ead91b9f86",
+      "id": "2b1792c8-78ea-4451-b63c-0c46af4e68e7",
+      "name": "Fantastic Wooden Soap",
+      "color": "lime",
+      "price": 85,
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1670085507655,
+      "updatedAt": 1670085507655,
+      "thumbnailUrl": "https://loremflickr.com/400/400"
+    }
+  ],
+  "profile": {
+    "name": "Thạch"
+  }
+}
